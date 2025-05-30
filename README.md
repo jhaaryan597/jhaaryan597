@@ -36,14 +36,14 @@
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaaryan597&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhaaryan597&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
 
 ## 💬 **Let's Connect!**
-🔗 **LinkedIn**: [Aryan Jha](https://linkedin.com/in/aryanjha597)  
+🔗 **LinkedIn**: [Aryan Jha](https://linkedin.com/in/jhaaryan597)  
 📧 **Email**: aryanjha597@gmail.com  
 🌍 **Portfolio**: [Coming Soon]  
 
