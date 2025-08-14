@@ -1,49 +1,60 @@
-<h1 align="center">Hi, I'm Aryan Jha! 👋</h1>
-<h3 align="center">🚀 Full Stack Flutter Developer | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Aryan Jha 👋</h1>
+<h3 align="center">🚀 Flutter Developer | Full-Stack App Solutions | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanjha597&label=Profile%20Views&color=blue&style=flat" alt="profile views">
-  <img src="https://img.shields.io/github/followers/aryanjha597?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=aryanjha597&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/aryanjha597?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-## 🔥 **Technologies I Work With**  
+## 🔥 Tech Stack
 
-### **📌 Backend**
-- **Node.js, Express.js** – RESTful APIs & Microservices  
-- **SQL & NoSQL** – Database Design & Optimization  
+### 📱 **Mobile & Frontend**
+- **Flutter, Dart, FlutterFlow** – Cross-platform mobile app development
+- **UI/UX Optimization** – Clean, responsive, and high-performance designs
 
-### **📌 Frontend**
-- **Flutter, FlutterFlow, Android** – Cross-Platform App Development  
+### 🗄 **Backend & APIs**
+- **Firebase (Firestore, Auth, Functions)** – Real-time, scalable backends
+- **Supabase (PostgreSQL)** – SQL-based backend solutions
+- **REST API Integrations** – Multiple third-party APIs, including WhatsApp Business API
 
----
-
-## 🎯 **What I Offer**
-✅ **Backend Development**: Secure & Scalable APIs with best practices  
-✅ **Frontend Development**: Dynamic UIs with Flutter & modern frameworks  
-✅ **Database Management**: Optimized SQL/NoSQL schemas for high performance  
-✅ **Full Stack Solutions**: Seamless integration of backend & frontend  
+### 💾 **Databases**
+- **HiveDB** – Offline-first mobile storage
+- **PostgreSQL, Firestore** – Optimized for performance and scalability
 
 ---
 
-## 🚀 **My Approach**
-🧩 **Problem-Solving**: I love tackling complex challenges  
-📚 **Continuous Learning**: Keeping up with tech trends & best practices  
-🤝 **Collaboration**: Teamwork & open-source contributions  
+## 💼 Work Highlights
+
+**💡 Software Developer Intern — Railse (Jun 2025 – Present)**  
+- Built **scalable Flutter modules** with priority-based task management and advanced filters, improving execution speed by **40%**.  
+- Integrated **multiple third-party APIs** (including WhatsApp Business API) to enhance communication and user experience.  
+
+**💡 Flutter Developer Intern — Gravitones (Apr 2025 – May 2025)**  
+- Delivered **Guftagu AI** app with **Google OAuth authentication**, **HiveDB offline storage**, and **40% faster load times**.  
+- Conducted **high-scale testing** with **1,000+ simulated users** and maintained code quality through structured reviews.  
 
 ---
 
-## 📈 **GitHub Stats**
+## 🎯 What I Do
+- **End-to-End App Development** – From concept to deployment  
+- **Performance Optimization** – Faster load times, reduced bugs  
+- **Scalable Architecture** – Modular, maintainable codebases  
+- **API Integrations** – Secure, seamless, and efficient  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaaryan597&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhaaryan597&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 ---
 
-## 💬 **Let's Connect!**
-🔗 **LinkedIn**: [Aryan Jha](https://linkedin.com/in/jhaaryan597)  
-📧 **Email**: aryanjha597@gmail.com  
-🌍 **Portfolio**: [Coming Soon]  
+## 📬 Let's Connect
+🔗 [LinkedIn](https://linkedin.com/in/jhaaryan597)  
+📧 **aryanjha230705@gmail.com**  
+🌍 **Portfolio**: [jhaaryan597-portfolio.vercel.app](https://jhaaryan597-portfolio.vercel.app/)
 
