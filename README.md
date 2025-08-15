@@ -62,7 +62,6 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
   <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical&count_private=true&cache_seconds=60" alt="GitHub stats" />
 </p>
 
-
 ---
 
 ## 📬 Let's Connect
