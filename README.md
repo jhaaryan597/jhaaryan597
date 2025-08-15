@@ -58,8 +58,8 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical&count_private=true" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical&count_private=true&cache_seconds=60" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical&count_private=true&v=1" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical&count_private=true&cache_seconds=60&v=1" alt="GitHub stats" />
 </p>
 
 ---
