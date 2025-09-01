@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Aryan Jha 👋</h1> <h3 align="center">🚀 Flutter & iOS Developer | IIIT Manipur'26</h3>
 
-<p align="center">
-<a href="https://jhaaryan597-portfolio.vercel.app/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-2B2D42%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio"></a>
-</p>
-
 💡 About Me
 I'm a passionate Flutter & iOS Developer with a focus on building scalable, high-performance mobile applications. My expertise spans cross-platform solutions, from logistics platforms to AI-powered apps, with an emphasis on clean architecture, intuitive UI/UX, and seamless API integrations.
 
