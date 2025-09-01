@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Aryan Jha 👋</h1> <h3 align="center">🚀 Flutter & iOS Developer | IIIT Manipur'26</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/jhaaryan597"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="mailto:aryanjha230705@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://jhaaryan597-portfolio.vercel.app/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-2B2D42%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio"></a>
 </p>
 
