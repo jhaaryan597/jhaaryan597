@@ -13,7 +13,7 @@ I am a **Flutter & iOS Developer** specializing in building **scalable, high-per
 My experience spans **logistics platforms**, **AI-powered apps**, and **cross-platform solutions**, delivering **clean architecture**, **intuitive UI/UX**, and **seamless API integrations**.
 
 **Core Skills:**  
-Flutter · Dart · SwiftUI · Firebase · Supabase · REST APIs · Git · UI/UX Design · HiveDB · C++ · Solidity · Dart · SwiftUI · Firebase · Supabase · REST APIs · Git · UI/UX Design · HiveDB · C++ · Solidity 
+Flutter · Swift · Dart · C++ · SwiftUI · Firebase · Supabase · REST APIs · Git · Solidity · Riverpod· Getx · PostgreSQL· MYSQL· Postman
 
 Passionate about **problem-solving**, **performance optimization**, and **crafting user-centric digital experiences**, I aim to bring **innovation and reliability** to every project I work on.
 
