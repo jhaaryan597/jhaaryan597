@@ -10,10 +10,10 @@
 
 ## 💡 About Me
 I am a **Flutter & iOS Developer** specializing in building **scalable, high-performance mobile applications** with expertise in **Flutter**, **Dart**, and **SwiftUI**.  
-My experience spans **logistics platforms**, **AI-powered applications**, and **cross-platform solutions**, delivering **clean architecture**, **intuitive UI/UX**, and **seamless API integrations**.
+My experience spans **logistics platforms**, **AI-powered apps**, and **cross-platform solutions**, delivering **clean architecture**, **intuitive UI/UX**, and **seamless API integrations**.
 
 **Core Skills:**  
-Flutter · Swift · Dart · C++ · SwiftUI · Firebase · Supabase · REST APIs · Git · Solidity · Riverpod · GetX · PostgreSQL · MySQL · Postman
+Flutter  · Swift  · Dart  · C++  · SwiftUI  · Firebase  · Supabase  · REST APIs  · Git  · Solidity  · Riverpod  · Getx  · PostgreSQL  · MYSQL  · Postman
 
 Passionate about **problem-solving**, **performance optimization**, and **crafting user-centric digital experiences**, I aim to bring **innovation and reliability** to every project I work on.
 
@@ -22,18 +22,17 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
 ## 🔥 Tech Stack
 
 ### 📱 Mobile & Frontend
-- **Flutter & Dart** – Cross-platform mobile development  
-- **SwiftUI** – Native iOS development with modern, declarative UI  
-- **UI/UX Design** – Clean, responsive, and user-friendly interfaces  
+- **Flutter, Dart, FlutterFlow** – Cross-platform mobile app development  
+- **UI/UX Optimization** – Clean, responsive, and high-performance designs
 
 ### 🗄 Backend & APIs
 - **Firebase (Firestore, Auth, Functions)** – Real-time, scalable backends  
-- **Supabase (PostgreSQL)** – SQL-based backend with authentication and real-time subscriptions  
-- **REST API Integrations** – Secure and efficient integration with third-party APIs  
+- **Supabase (PostgreSQL)** – SQL-based backend solutions  
+- **REST API Integrations** – Multiple third-party APIs, including WhatsApp Business API
 
-### 💾 Databases & Storage
+### 💾 Databases
 - **HiveDB** – Offline-first mobile storage  
-- **PostgreSQL & Firestore** – Reliable and scalable database solutions  
+- **PostgreSQL, Firestore** – Optimized for performance and scalability
 
 ---
 
@@ -45,12 +44,12 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
 
 **💡 Flutter Developer Intern — Gravitones (Apr 2025 – May 2025)**  
 - Delivered **Guftagu AI** app with **Google OAuth authentication**, **HiveDB offline storage**, and **40% faster load times**  
-- Conducted **high-scale testing** with **1,000+ simulated users** and maintained code quality through structured code reviews  
+- Conducted **high-scale testing** with **1,000+ simulated users** and maintained code quality through structured reviews  
 
 ---
 
 ## 🎯 What I Do
-- **End-to-End App Development** – From concept, design, to deployment  
+- **End-to-End App Development** – From concept to deployment  
 - **Performance Optimization** – Faster load times, reduced bugs  
 - **Scalable Architecture** – Modular, maintainable codebases  
 - **API Integrations** – Secure, seamless, and efficient  
@@ -59,8 +58,8 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical&count_private=true" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjha597&theme=radical&count_private=true&v=1" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjha597&show_icons=true&theme=radical&count_private=true&cache_seconds=60&v=1" alt="GitHub stats" />
 </p>
 
 ---
@@ -68,4 +67,4 @@ Passionate about **problem-solving**, **performance optimization**, and **crafti
 ## 📬 Let's Connect
 🔗 [LinkedIn](https://linkedin.com/in/jhaaryan597)  
 📧 **aryanjha230705@gmail.com**  
-🌍 **Portfolio:** [jhaaryan597-portfolio.vercel.app](https://jhaaryan597-portfolio.vercel.app/)
+🌍 **Portfolio**: [jhaaryan597-portfolio.vercel.app](https://jhaaryan597-portfolio.vercel.app/)
